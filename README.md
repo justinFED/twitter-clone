@@ -1,1 +1,3 @@
-## twitter-clone
+# Twitter-clone
+
+# For educational purposes only
